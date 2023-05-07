@@ -23,7 +23,7 @@
     "admin-lte": "^2.4.18",
     "core-js": "^3.4.7",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "~6.5.3",
     "ts-helpers": "^1.1.2",
